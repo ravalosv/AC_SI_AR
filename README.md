@@ -38,7 +38,7 @@ Notas:
 14. Si el repartidor tiene más pedidos en cola, **AR** lo direcciona al siguiente pedido y se repite el proceso.
 15. Si ya no existen pedidos en cola, el repartidor regresa al **CEDIS** para esperar nuevas asignaciones.
 
-## 4) Diagrama de flujo
+## 4) Diagrama de flujo (Mermaid)
 
 ```mermaid
 flowchart TB
